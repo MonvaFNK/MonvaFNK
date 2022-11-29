@@ -1,3 +1,3 @@
-### Hello developers and welcome to my github page! ![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif | width="40" height="40")
+### Hello developers and welcome to my github page! ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 My name is Santiago and a 
